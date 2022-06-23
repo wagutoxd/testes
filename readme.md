@@ -1,9 +1,9 @@
 # Going Crazy with Coding
 
-Meu início na programação! Aqui eu testo, pesquiso e brinco com os códigos de linguagens q tenho estudado (no momento, apenas HTML e CSS).
+Meu início na programação! Aqui eu testo, pesquiso e brinco com os códigos de linguagens q tenho estudado (no momento, apenas HTML e CSS - Eu sei, eu sei... já ouvi dizer q essas não são linguagens de programação... xD mas eu chego lá!).
 
 Minha intenção é usar esse repositório como laboratório e ir reescrevendo, transformando numa página elaborada a medida q for evoluindo nos estudos, enxugando o código, aperfeiçoando e adicionando funcionalidades e propósito.
-Por hora, não há um conceito ou plano específico. No futuro talvez utilize como site pessoal e portfolio.
+Por hora, não há um conceito ou plano específico. No futuro talvez utilize como site pessoal e/ou portfolio.
 
 Obrigado!
 
@@ -11,11 +11,11 @@ Obrigado!
 
 ----
 
-My start in coding and programming! Here I'll test, research and play with coding and the languages I'm studying (right now, only HTML and CSS).
+My start in coding and programming! Here I'll test, research and play with coding and the languages I'm studying (right now, only HTML and CSS - I know, I know... I've been told these are not programming languages... xD but I'll get there!).
 
 My intention is to use this repository as a lab and practice, transforming the project in a more elaborate page as I develop my skills, making the code more clear, perfecting it and adding functionalities and porpouse.
 
-At this moment, there's no concept or plan. In the future I might use it as a personal site and portfolio.
+At this moment, there's no concept or plan. In the future I might use it as a personal site and/or portfolio.
 
 Thank you!
 

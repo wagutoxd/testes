@@ -1,0 +1,94 @@
+@font-face {
+  font-family: PageFont;
+  src: url(./Fonts/KdamThmorPro-Regular.ttf);
+}
+
+Body {
+  font-family: PageFont;
+  text-align: center;
+  margin: 0px;
+}
+
+p {
+  text-align: justify;
+}
+
+#section01 {
+  padding-top: 15px;
+  height: fit-content;
+  background-color: #a7a7a7;
+  color: #dbdbdb;
+}
+
+#block01 {
+  display: inline-block;
+  position: relative;
+  height: 100px;
+  width: 70%;
+  background-color: #3482b6;
+}
+
+#block02 {
+  display: block;
+  position: relative;
+  float: right;
+  height: 100px;
+  width: 30%;
+  background-color: #8a2be2;
+}
+
+#block03 {
+  display: inline-block;
+  position: relative;
+  height: 100px;
+  width: 30%;
+  background-color: #34b655;
+  margin-bottom: 25px;
+}
+
+#block04 {
+  display: block;
+  position: relative;
+  float: right;
+  height: 100px;
+  width: 70%;
+  background-color: #e22b9c;
+}
+
+.content {
+  display: auto;
+  padding: 5px;
+  text-align: left;
+}
+
+#sec01 {
+  padding: 25px;
+  background-color: #2bc6e2;
+}
+
+#sec02 {
+  float: left;
+  height: 180px;
+  width: 50%;
+  background-color: #483d8b;
+}
+
+#sec03 {
+  float: right;
+  height: 180px;
+  width: 50%;
+  background-color: #2f4f4f;
+}
+
+@media screen and (max-width: 500px) {
+  #sec02 {
+    height: 50px;
+    width: 100%;
+    background-color: darkslateblue;
+  }
+  #sec03 {
+    height: 50px;
+    width: 100%;
+    background-color: darkslategray;
+  }
+}

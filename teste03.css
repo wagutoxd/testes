@@ -1,0 +1,11 @@
+@font-face {
+  font-family: PageFont;
+  src: url(./Fonts/KdamThmorPro-Regular.ttf);
+}
+body {
+  background-image: url(./Assets/cyber-circuit-future-technology-concept-background_42077-9585.jpg);
+  background-size: contain;
+  background-attachment: fixed;
+  font-family: PageFont, sans-serif;
+  color: white;
+}
